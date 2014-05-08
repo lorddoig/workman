@@ -7,6 +7,8 @@ When learning cold-turkey, trying printing the included keyboard image as a desk
 
 ## Modifications
 
+This fork makes adds a custom mac layout (Workman-SD) a little better suited to my programming tastes:
+
 ⇋ means swap.
 
 * `;` ⇋ `:`
