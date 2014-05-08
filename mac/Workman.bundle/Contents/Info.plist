@@ -13,12 +13,19 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workman</string>
 		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
+		<string>en-GB</string>
 	</dict>
 	<key>KLInfo_Workman Extended</key>
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workmanextended</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
+	<key>KLInfo_Workman-Dead</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.workman-dead</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
@@ -40,13 +47,6 @@
 	<dict>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.workman.workman-pextended</string>
-		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
-	</dict>
-	<key>KLInfo_Workman-Dead</key>
-	<dict>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.workman-dead</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
