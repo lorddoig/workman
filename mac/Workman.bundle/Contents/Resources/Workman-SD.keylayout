@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 2.2.8 on 2014-05-08 at 17:11 (BST)-->
 <!--Created by Ukelele version 2.2.8 on 2014-05-08 at 17:08 (BST)-->
-<keyboard group="0" id="2727" name="Workman" maxout="1">
+<keyboard group="0" id="2727" name="Workman-SD" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="994"/>
